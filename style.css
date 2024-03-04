@@ -1,0 +1,22 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+.topnav {
+    display: flex;
+    column-gap: 20px;
+    justify-content: flex-end;
+    background-color: #000000;
+    height: 35px;
+    align-items: center;
+  }
+  
+.topnav a {
+    color: #f2f2f2;
+    font-size: 17px;
+  }
+.topnav a:hover {
+    background-color: #541818;
+    color: black;
+  }
